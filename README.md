@@ -54,7 +54,7 @@ Relevant Coursework: Electrical Circuit Analysis, Control Systems, Power Systems
 <details>
   <summary>Autonomous Parking using Deep RL (April 2024)</summary>
   <p>
-    - Developed autonomous parking solutions using advanced deep reinforcement learning (RL) techniques, including DDPG (Deep Deterministic Policy Gradient), PPO (Proximal Policy Optimization), and SAC (Soft Actor-Critic).
+    - Developed autonomous parking solutions using advanced deep reinforcement learning (RL) techniques, including DDPG (Deep Deterministic Policy Gradient), PPO (Proximal Policy Optimization),       and SAC (Soft Actor-Critic).
     - Implemented and fine-tuned deep RL algorithms to achieve optimal parking behavior in shorter durations utilizing CUDA to accelerate computations and enhance performance.
     - Integrated feature association using semi-gradient SARSA to map continuous environmental features to appropriate discrete actions effectively.
   </p>
