@@ -4,5 +4,5 @@
   
 
 ### Projects
- - Deep RL
+ - Deep RL [Link](http://www.linkedin.com/in/aditya-aspat26)
  - AUto
