@@ -1,5 +1,8 @@
 # Robotics Engineer, Deep Learning, Computer Vision
 
-### Eductaion
+### Education
+  
 
 ### Projects
+ - Deep RL
+ - AUto
